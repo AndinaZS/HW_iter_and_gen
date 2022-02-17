@@ -1,3 +1,4 @@
+#генератор со *, задание без * тоже выполняет
 def flat_generator(obj_list):
     flag = True
     while flag:
