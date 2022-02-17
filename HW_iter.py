@@ -1,3 +1,4 @@
+#итератор за *, задание без * тоже может
 class FlatIterator:
 
 	def __init__(self, obj_list):
